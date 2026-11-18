@@ -65,14 +65,12 @@ To design and simulate Y=(A+BC)' circuit using Synopsys EDA tools, analyze its e
 
 
 #### 3. Transient Response Setup:
-
 <img width="1530" height="817" alt="image" src="https://github.com/user-attachments/assets/1b0e7a5d-28df-48fa-bd0f-a451aacbf9fc" />
 
 
 
 ## Output
 #### 1.Transient Analysis
-
 <img width="1534" height="645" alt="image" src="https://github.com/user-attachments/assets/b38eb782-b5eb-4298-a496-dc395369a942" />
 
 
